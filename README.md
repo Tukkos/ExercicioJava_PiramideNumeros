@@ -1,4 +1,4 @@
-### Java exercise
+# Java exercise
 
 This repository is an study on Java. To show my studies I make this number piramyd that create a number piramyd based on the number of interations you choose.
 

@@ -1,3 +1,7 @@
+### Java exercise
+
+This repository is an study on Java. To show my studies I make this number piramyd that create a number piramyd based on the number of interations you choose.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.

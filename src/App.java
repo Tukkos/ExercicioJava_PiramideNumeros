@@ -1,6 +1,10 @@
+import java.util.Scanner;
+
 public class App {
     public static void main(String[] args) throws Exception {
-        int iteracao = 6;
+        Scanner ler = new Scanner(System.in);
+        System.out.println("Informe um número: ");
+        int iteracao = ler.nextInt() + 1;
 
         for(int i = 1; i < iteracao; i++) {
             int numero = i;
